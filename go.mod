@@ -1,3 +1,3 @@
-module github.com/grafov/hulk
+module github.com/Monsterlallu/Cyber-kattappa
 
 go 1.16
